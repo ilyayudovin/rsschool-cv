@@ -2,7 +2,7 @@
 
 **Telephone number** : +375293896905
 
-**E-mail** : [ilyayudovin123@gmail.com](mailto:ilyayudovin123@gmail.com)
+**Gmail** : [ilyayudovin123@gmail.com](mailto:ilyayudovin123@gmail.com)
 
 **github -** [https://github.com/ilyayudovin/](https://github.com/ilyayudovin/)
 
@@ -20,7 +20,7 @@ Start programming in 2018. Studying in BSU faculty of applied Mathematics and Co
 
 **Frameworks and Libraries:** React, bootstrap
 
-**Tools:** GIT **,** IntelliJ, Webstorm, 
+**Tools:** GIT, IntelliJ, Webstorm 
 
 **Other skills:** master of sports in ballroom dancing
 
@@ -34,9 +34,9 @@ I'm font of hip-hop,dancing in "DNA" crew.
 
 **Education**
 
-The Rolling Scopes School ([https://school.rollingscopes.com/](https://school.rollingscopes.com/)), 02.2020 – now,
+The Rolling Scopes School ([https://school.rollingscopes.com/](https://school.rollingscopes.com/)), 02.2020 – now
 
-Belarusian State University, Minsk, Belarus, 09.2019-now                                                                            **
+Belarusian State University, Minsk, Belarus, 09.2019-now                                                                            
 
 **English**
 
